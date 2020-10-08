@@ -1,0 +1,28 @@
+E:\New folder\EgrasWebAPI\Egras.Repository\bin\Debug\netstandard2.0\Egras.Repository.deps.json
+E:\New folder\EgrasWebAPI\Egras.Repository\bin\Debug\netstandard2.0\Egras.Repository.dll
+E:\New folder\EgrasWebAPI\Egras.Repository\bin\Debug\netstandard2.0\Egras.Repository.pdb
+E:\New folder\EgrasWebAPI\Egras.Repository\bin\Debug\netstandard2.0\Egras.Entities.dll
+E:\New folder\EgrasWebAPI\Egras.Repository\bin\Debug\netstandard2.0\Egras.Repository.Interfaces.dll
+E:\New folder\EgrasWebAPI\Egras.Repository\bin\Debug\netstandard2.0\Egras.Entities.pdb
+E:\New folder\EgrasWebAPI\Egras.Repository\bin\Debug\netstandard2.0\Egras.Repository.Interfaces.pdb
+E:\New folder\EgrasWebAPI\Egras.Repository\obj\Debug\netstandard2.0\Egras.Repository.csprojAssemblyReference.cache
+E:\New folder\EgrasWebAPI\Egras.Repository\obj\Debug\netstandard2.0\Egras.Repository.AssemblyInfoInputs.cache
+E:\New folder\EgrasWebAPI\Egras.Repository\obj\Debug\netstandard2.0\Egras.Repository.AssemblyInfo.cs
+E:\New folder\EgrasWebAPI\Egras.Repository\obj\Debug\netstandard2.0\Egras.Repository.csproj.CopyComplete
+E:\New folder\EgrasWebAPI\Egras.Repository\obj\Debug\netstandard2.0\Egras.Repository.dll
+E:\New folder\EgrasWebAPI\Egras.Repository\obj\Debug\netstandard2.0\Egras.Repository.pdb
+E:\New folder\EgrasWebAPI\Egras.Repository\obj\Debug\netstandard2.0\Egras.Repository.csproj.CoreCompileInputs.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.Repository\bin\Debug\netstandard2.0\Egras.Repository.deps.json
+E:\EgrasWeb\EgrasWebAPI\Egras.Repository\bin\Debug\netstandard2.0\Egras.Repository.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.Repository\bin\Debug\netstandard2.0\Egras.Repository.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.Repository\bin\Debug\netstandard2.0\Egras.Entities.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.Repository\bin\Debug\netstandard2.0\Egras.Repository.Interfaces.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.Repository\bin\Debug\netstandard2.0\Egras.Entities.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.Repository\bin\Debug\netstandard2.0\Egras.Repository.Interfaces.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.Repository\obj\Debug\netstandard2.0\Egras.Repository.csprojAssemblyReference.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.Repository\obj\Debug\netstandard2.0\Egras.Repository.AssemblyInfoInputs.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.Repository\obj\Debug\netstandard2.0\Egras.Repository.AssemblyInfo.cs
+E:\EgrasWeb\EgrasWebAPI\Egras.Repository\obj\Debug\netstandard2.0\Egras.Repository.csproj.CoreCompileInputs.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.Repository\obj\Debug\netstandard2.0\Egras.Repository.csproj.CopyComplete
+E:\EgrasWeb\EgrasWebAPI\Egras.Repository\obj\Debug\netstandard2.0\Egras.Repository.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.Repository\obj\Debug\netstandard2.0\Egras.Repository.pdb

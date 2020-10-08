@@ -1,0 +1,17 @@
+E:\New folder\EgrasWebAPI\Egras.Entities\bin\Debug\netstandard2.0\Egras.Entities.deps.json
+E:\New folder\EgrasWebAPI\Egras.Entities\bin\Debug\netstandard2.0\Egras.Entities.dll
+E:\New folder\EgrasWebAPI\Egras.Entities\bin\Debug\netstandard2.0\Egras.Entities.pdb
+E:\New folder\EgrasWebAPI\Egras.Entities\obj\Debug\netstandard2.0\Egras.Entities.AssemblyInfoInputs.cache
+E:\New folder\EgrasWebAPI\Egras.Entities\obj\Debug\netstandard2.0\Egras.Entities.AssemblyInfo.cs
+E:\New folder\EgrasWebAPI\Egras.Entities\obj\Debug\netstandard2.0\Egras.Entities.csproj.CoreCompileInputs.cache
+E:\New folder\EgrasWebAPI\Egras.Entities\obj\Debug\netstandard2.0\Egras.Entities.dll
+E:\New folder\EgrasWebAPI\Egras.Entities\obj\Debug\netstandard2.0\Egras.Entities.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.Entities\bin\Debug\netstandard2.0\Egras.Entities.deps.json
+E:\EgrasWeb\EgrasWebAPI\Egras.Entities\bin\Debug\netstandard2.0\Egras.Entities.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.Entities\bin\Debug\netstandard2.0\Egras.Entities.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.Entities\obj\Debug\netstandard2.0\Egras.Entities.AssemblyInfoInputs.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.Entities\obj\Debug\netstandard2.0\Egras.Entities.AssemblyInfo.cs
+E:\EgrasWeb\EgrasWebAPI\Egras.Entities\obj\Debug\netstandard2.0\Egras.Entities.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.Entities\obj\Debug\netstandard2.0\Egras.Entities.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.Entities\obj\Debug\netstandard2.0\Egras.Entities.csprojAssemblyReference.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.Entities\obj\Debug\netstandard2.0\Egras.Entities.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+E:\EgrasWeb\EgrasWebAPI\Egras.SmsServices\bin\Debug\netstandard2.0\Egras.SmsServices.deps.json
+E:\EgrasWeb\EgrasWebAPI\Egras.SmsServices\bin\Debug\netstandard2.0\Egras.SmsServices.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.SmsServices\bin\Debug\netstandard2.0\Egras.SmsServices.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.SmsServices\obj\Debug\netstandard2.0\Egras.SmsServices.csprojAssemblyReference.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.SmsServices\obj\Debug\netstandard2.0\Egras.SmsServices.AssemblyInfoInputs.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.SmsServices\obj\Debug\netstandard2.0\Egras.SmsServices.AssemblyInfo.cs
+E:\EgrasWeb\EgrasWebAPI\Egras.SmsServices\obj\Debug\netstandard2.0\Egras.SmsServices.csproj.CoreCompileInputs.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.SmsServices\obj\Debug\netstandard2.0\Egras.SmsServices.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.SmsServices\obj\Debug\netstandard2.0\Egras.SmsServices.pdb

@@ -1,0 +1,159 @@
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.exe
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.deps.json
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.runtimeconfig.json
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.runtimeconfig.dev.json
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.dll
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.pdb
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.AssemblyInfo.cs
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.RazorTargetAssemblyInfo.cache
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\EgrasWebAPI.API.StaticWebAssets.Manifest.cache
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\EgrasWebAPI.API.StaticWebAssets.xml
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.dll
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.pdb
+C:\Users\dell\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.genruntimeconfig.cache
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.exe
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.deps.json
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.runtimeconfig.json
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.runtimeconfig.dev.json
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.dll
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.pdb
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.AssemblyInfo.cs
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.RazorTargetAssemblyInfo.cache
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\staticwebassets\EgrasWebAPI.API.StaticWebAssets.Manifest.cache
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\staticwebassets\EgrasWebAPI.API.StaticWebAssets.xml
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.dll
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.pdb
+C:\Users\dell\source\repos\WebApplication1\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.genruntimeconfig.cache
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.exe
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.deps.json
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.runtimeconfig.json
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.runtimeconfig.dev.json
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.pdb
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.csprojAssemblyReference.cache
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.AssemblyInfoInputs.cache
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.AssemblyInfo.cs
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.RazorTargetAssemblyInfo.cache
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\staticwebassets\EgrasWebAPI.API.StaticWebAssets.Manifest.cache
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\staticwebassets\EgrasWebAPI.API.StaticWebAssets.xml
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.pdb
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.genruntimeconfig.cache
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Business.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Business.Interfaces.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Entities.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Repository.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Repository.Interfaces.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Business.Interfaces.pdb
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Business.pdb
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Entities.pdb
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Repository.Interfaces.pdb
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Repository.pdb
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.csproj.CopyComplete
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.csproj.CoreCompileInputs.cache
+E:\New folder\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.MvcApplicationPartsAssemblyInfo.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.exe
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.deps.json
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.runtimeconfig.json
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.runtimeconfig.dev.json
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\EgrasWebAPI.API.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Dapper.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authorization.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Metadata.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Business.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Business.Interfaces.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Entities.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Repository.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Repository.Interfaces.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Business.Interfaces.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Business.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Entities.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Repository.Interfaces.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.Repository.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.csprojAssemblyReference.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.AssemblyInfoInputs.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.AssemblyInfo.cs
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.RazorTargetAssemblyInfo.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.csproj.CopyComplete
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\staticwebassets\EgrasWebAPI.API.StaticWebAssets.Manifest.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\staticwebassets\EgrasWebAPI.API.StaticWebAssets.xml
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.genruntimeconfig.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\nlog.config
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\NLog.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.LoggerService.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Egras.LoggerService.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.csproj.CoreCompileInputs.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.MvcApplicationPartsAssemblyInfo.cs
+E:\EgrasWeb\EgrasWebAPI\Egras.WebAPI.API\obj\Debug\netcoreapp3.1\EgrasWebAPI.API.MvcApplicationPartsAssemblyInfo.cache

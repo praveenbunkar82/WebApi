@@ -1,0 +1,26 @@
+E:\New folder\EgrasWebAPI\Egras.Business.Interfaces\bin\Debug\netstandard2.0\Egras.Business.Interfaces.deps.json
+E:\New folder\EgrasWebAPI\Egras.Business.Interfaces\bin\Debug\netstandard2.0\Egras.Business.Interfaces.dll
+E:\New folder\EgrasWebAPI\Egras.Business.Interfaces\bin\Debug\netstandard2.0\Egras.Business.Interfaces.pdb
+E:\New folder\EgrasWebAPI\Egras.Business.Interfaces\bin\Debug\netstandard2.0\Egras.Entities.dll
+E:\New folder\EgrasWebAPI\Egras.Business.Interfaces\bin\Debug\netstandard2.0\Egras.Entities.pdb
+E:\New folder\EgrasWebAPI\Egras.Business.Interfaces\obj\Debug\netstandard2.0\Egras.Business.Interfaces.csprojAssemblyReference.cache
+E:\New folder\EgrasWebAPI\Egras.Business.Interfaces\obj\Debug\netstandard2.0\Egras.Business.Interfaces.AssemblyInfoInputs.cache
+E:\New folder\EgrasWebAPI\Egras.Business.Interfaces\obj\Debug\netstandard2.0\Egras.Business.Interfaces.AssemblyInfo.cs
+E:\New folder\EgrasWebAPI\Egras.Business.Interfaces\obj\Debug\netstandard2.0\Egras.Business.Interfaces.csproj.CoreCompileInputs.cache
+E:\New folder\EgrasWebAPI\Egras.Business.Interfaces\obj\Debug\netstandard2.0\Egras.Business.Interfaces.csproj.CopyComplete
+E:\New folder\EgrasWebAPI\Egras.Business.Interfaces\obj\Debug\netstandard2.0\Egras.Business.Interfaces.dll
+E:\New folder\EgrasWebAPI\Egras.Business.Interfaces\obj\Debug\netstandard2.0\Egras.Business.Interfaces.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.Business.Interfaces\bin\Debug\netstandard2.0\Egras.Business.Interfaces.deps.json
+E:\EgrasWeb\EgrasWebAPI\Egras.Business.Interfaces\bin\Debug\netstandard2.0\Egras.Business.Interfaces.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.Business.Interfaces\bin\Debug\netstandard2.0\Egras.Business.Interfaces.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.Business.Interfaces\bin\Debug\netstandard2.0\Egras.Entities.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.Business.Interfaces\bin\Debug\netstandard2.0\Egras.Entities.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.Business.Interfaces\obj\Debug\netstandard2.0\Egras.Business.Interfaces.csprojAssemblyReference.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.Business.Interfaces\obj\Debug\netstandard2.0\Egras.Business.Interfaces.AssemblyInfoInputs.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.Business.Interfaces\obj\Debug\netstandard2.0\Egras.Business.Interfaces.AssemblyInfo.cs
+E:\EgrasWeb\EgrasWebAPI\Egras.Business.Interfaces\obj\Debug\netstandard2.0\Egras.Business.Interfaces.csproj.CoreCompileInputs.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.Business.Interfaces\obj\Debug\netstandard2.0\Egras.Business.Interfaces.csproj.CopyComplete
+E:\EgrasWeb\EgrasWebAPI\Egras.Business.Interfaces\obj\Debug\netstandard2.0\Egras.Business.Interfaces.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.Business.Interfaces\obj\Debug\netstandard2.0\Egras.Business.Interfaces.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.Business.Interfaces\bin\Debug\netstandard2.0\Egras.Repository.Interfaces.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.Business.Interfaces\bin\Debug\netstandard2.0\Egras.Repository.Interfaces.pdb

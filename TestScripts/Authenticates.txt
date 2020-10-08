@@ -1,0 +1,23 @@
+https://www.youtube.com/watch?v=5JKOicaE4Qw
+{
+"username": "to",
+"errorCode": "null",
+"rnd": "1158624681",
+"password": "763adab0cb124468adb1a0b1d697e69c",
+"userID": 0,
+"userType": 0,
+"ipAddress": "::1",
+"userflag": "null",
+"shaPassword": "32fce102dfffda4ef5e764c6f7ab2bc0c2935296f41e9ff9bb92b68aa4fa1846"
+}
+{
+"username": "bull",
+"errorCode": "null",
+"rnd": "1158624681",
+"password": "763adab0cb124468adb1a0b1d697e69c",
+"userID": 0,
+"userType": 0,
+"ipAddress": "::1",
+"userflag": "null",
+"shaPassword": "32fce102dfffda4ef5e764c6f7ab2bc0c2935296f41e9ff9bb92b68aa4fa1846"
+}

@@ -1,0 +1,9 @@
+E:\EgrasWeb\EgrasWebAPI\Egras.LoggerService\bin\Debug\netcoreapp3.1\Egras.LoggerService.deps.json
+E:\EgrasWeb\EgrasWebAPI\Egras.LoggerService\bin\Debug\netcoreapp3.1\Egras.LoggerService.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.LoggerService\bin\Debug\netcoreapp3.1\Egras.LoggerService.pdb
+E:\EgrasWeb\EgrasWebAPI\Egras.LoggerService\obj\Debug\netcoreapp3.1\Egras.LoggerService.csprojAssemblyReference.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.LoggerService\obj\Debug\netcoreapp3.1\Egras.LoggerService.AssemblyInfoInputs.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.LoggerService\obj\Debug\netcoreapp3.1\Egras.LoggerService.AssemblyInfo.cs
+E:\EgrasWeb\EgrasWebAPI\Egras.LoggerService\obj\Debug\netcoreapp3.1\Egras.LoggerService.csproj.CoreCompileInputs.cache
+E:\EgrasWeb\EgrasWebAPI\Egras.LoggerService\obj\Debug\netcoreapp3.1\Egras.LoggerService.dll
+E:\EgrasWeb\EgrasWebAPI\Egras.LoggerService\obj\Debug\netcoreapp3.1\Egras.LoggerService.pdb
